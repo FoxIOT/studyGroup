@@ -1,6 +1,6 @@
 ---
 title: IOT Meetup 6
-text: Documenting the product
+text: Using Gitbook to documenting the product/Application
 location: KGISL
 link: https://github.com/FoxIOT/studyGroup/issues/4
 date: 2016-12-25
