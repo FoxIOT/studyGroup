@@ -6,7 +6,6 @@
     - Open Science
     - IOT
     - AI/Machine learning
-<<<<<<< HEAD
 
 - name: Sudharsan Rajendran
   affiliation: Mozilla India
@@ -17,7 +16,7 @@
     - Big Data
     - IOT
     - Agile Development
-=======
+
 - name: Karthic keyan
   affiliation: Mozilla India
   github: hellokarthic
@@ -25,4 +24,98 @@
     - Programming
     - Community Building
     - Open learning
->>>>>>> 97ae0daa5875bc9dd998b2ccfcbfab1bbf21769c
+
+- name: Venkat Raman
+  affiliation: Mozilla India
+  github: GVRGowtham
+  interests:
+    - Programming
+    - IOT
+    - AI/Machine learning
+
+- name: Paarttipaabhalaji
+  affiliation: Mozilla India
+  github: paarttipaabhalaji
+  interests:
+    - Programming
+    - Open Source
+    - Big Data
+    - IOT
+    - Cloud
+    
+- name: Prasanth P
+  affiliation: Mozilla India
+  github: prasanthp96
+  interests:
+    - Programming
+    - Web development
+    - Open Source
+    - Big Data
+    
+- name: Lokeshwarran A
+  affiliation: Mozilla India
+  github: Lokeshwaran97
+  interests:
+    - Programming
+    - Web development
+    - Open Source
+    - IOT
+    - Webvr
+   
+- name: Surentharan
+  affiliation: Mozilla India
+  github: surentharan
+  interests:
+    - Programming
+    - Open Source
+    - web development
+    - IOT
+    
+- name: Sriram B
+  affiliation: Mozilla India
+  github: sriram23
+  interests:
+    - Programming
+    - Web development
+    - Open Source
+    - IOT
+    
+- name: Barani Tharan M
+  affiliation: Mozilla India
+  github: Baranitharan2020
+  interests:
+    - Programming
+    - Web development
+    - Cloud Computing
+    - IOT
+    - Data Mining
+
+- name: R.Krithika Sowbarnika
+  affiliation: Mozilla India
+  github: krithivelan
+  interests:
+    - Programming
+    - Web development
+    - Open Source
+    - IOT
+    - Graphics Designing
+
+- name: Aishvarya Mohan
+  affiliation: Mozilla India
+  github: Aishvaryamohan
+  interests:
+    - Programming
+    - Web development
+    - Animation
+    - Android
+    - Graphics and Design
+
+- name: Rajesh D
+  affiliation: Mozilla India
+  github: rockrajesh23
+  interests:
+    - Programming
+    - Web development
+    - Open Source
+    - IOT
+    - Graphics and Design
