@@ -1,6 +1,6 @@
 ---
 title: IOT Meetup 5
-text: Rust programming
+text: REST API's and Web App to control RPI's GPIO
 location: KGISL
 link: https://github.com/FoxIOT/studyGroup/issues/3
 date: 2016-12-24

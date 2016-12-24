@@ -109,6 +109,7 @@
     - Animation
     - Android
     - Graphics and Design
+<<<<<<< HEAD
 
 - name: Rajesh D
   affiliation: Mozilla India
@@ -119,3 +120,14 @@
     - Open Source
     - IOT
     - Graphics and Design
+=======
+    
+- name: Pavithra Roselin M
+  affiliation: Mozilla India
+  github: 14ITA18
+  interests:
+    - Programming
+    - Web development
+    - IOT
+    - Data Mining
+>>>>>>> f4e5eeb4ab97251d47013bb461a7e1d780a82d9d
